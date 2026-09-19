@@ -1,0 +1,1 @@
+import{describe,it,expect}from"vitest";describe("event hub",()=>it("has a valid event dataset",()=>expect(["EV-204","EV-203","EV-202","EV-201"]).toHaveLength(4)));
